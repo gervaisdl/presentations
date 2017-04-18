@@ -214,3 +214,9 @@ pip-log.txt
 
 #Mr Developer
 .mr.developer.cfg
+
+#Node.js
+/node_modules/*
+!/node_modules/reveal.js/
+!/node_modules/reveal.js/**/*
+/node_modules/reveal.js/test/*

@@ -16,5 +16,8 @@
     "url": "https://github.com/nschonni/presentations/issues"
   },
   "homepage": "https://github.com/nschonni/presentations#readme",
-  "private": true
+  "private": true,
+  "dependencies": {
+    "reveal.js": "^3.4.1"
+  }
 }
