@@ -1,0 +1,20 @@
+{
+  "name": "presentations",
+  "version": "1.0.0",
+  "description": "Reveal.js presentations for gh-pages",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nschonni/presentations.git"
+  },
+  "author": "Nick Schonning <nschonni@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nschonni/presentations/issues"
+  },
+  "homepage": "https://github.com/nschonni/presentations#readme",
+  "private": true
+}
