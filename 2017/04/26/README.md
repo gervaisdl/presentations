@@ -19,7 +19,7 @@ http://csunconference.org/
 ## Who goes to CSUN?
 
 
-### Roles
+### People you'll see
 - Students
 - Civil Servants
 - Political office holders
@@ -29,7 +29,10 @@ http://csunconference.org/
 - Developers
 - Testers
 - Accessibility auditors
-- People with disabilities
+- Low or No vision
+- Deaf
+- Deaf/Blink
+- Cognitive disabilities
 - Stevie Wonder
 
 
@@ -149,6 +152,11 @@ In past years I've created Guidebook apps to help myself and others.
 - Lainey Feingold's legal update
 - 508 Refresh update from ADA
 - Any of Jamie Knight's talks
+- Web Content Accessibility Guidelines 2.1 First Public Working Draft http://www.w3.org/TR/WCAG21/
+
+
+### Some sessions I attended
+- Static vs. Interactive Widget Roles (Bryan Garaventa) https://www.linkedin.com/pulse/csun-2017-printout-static-vs-interactive-widget-roles-bryan-garaventa-
 
 
 ### Recaps
