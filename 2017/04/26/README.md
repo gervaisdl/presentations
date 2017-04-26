@@ -36,6 +36,7 @@ Presentation: https://nschonni.github.io/presentations/2017/04/26/
 ### Stevie Wonder
 
 You'll probably run into him at some point of the conference
+
 ![Billy Gregory and Stevie Wonder selfie at CSUN14](img/Billy_Stevie.jpeg)
 
 
@@ -178,9 +179,12 @@ In past years I've created Guidebook apps to help myself and others.
 
 
 ### Sign language karaoke
-![Karaoke at CSUN17, David McDonald leads his classic WCAG theme song by Dennis311](img/Karaoke.jpg)
+
 You'll see many A11y people belting out their favourite hits, like Ottawa's own
 David McDonald. Image from Dennis Lembree's Flickr
+
+![Karaoke at CSUN17, David McDonald leads his classic WCAG theme song by Dennis311](img/Karaoke.jpg)
+
 
 
 ### Google party
