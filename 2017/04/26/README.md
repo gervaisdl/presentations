@@ -31,7 +31,12 @@ Presentation: https://nschonni.github.io/presentations/2017/04/26/
 - Testers
 - Accessibility auditors
 - People with disabilities (Low or No vision, Deaf, Deaf/Blink, Cognitive disabilities)
-- Stevie Wonder
+
+
+### Stevie Wonder
+
+You'll probably run into him at some point of the conference
+![Billy Gregory and Stevie Wonder selfie at CSUN14](img/Billy_Stevie.jpeg)
 
 
 ### Software
@@ -52,7 +57,7 @@ Presentation: https://nschonni.github.io/presentations/2017/04/26/
 
 ### Publishers
 - Pearson
-
+- Adobe
 
 
 
@@ -232,4 +237,5 @@ San Diego, CA 92101
 
 
 ## Questions?
+
 Thank you!
