@@ -73,10 +73,13 @@ Before the actual conference, CSUN now offers 2 days of [Pre-conference workshop
 - Half-day: $190/215/265 (Early/Regular/Late)
 
 
-### Example Pre-conference workshops
+### One-day pre-conference workshops
 - [Resources from the Inclusive Design Fundamentals workshop](https://isner.github.io/inclusive-design-fundamentals/) by Dennis Lembree, Caitlin Geier, and Matthew Isner.
 - [Mobile Pre-Conference Accessibility Workshops](http://pauljadam.com/csunmobile/) by Paul Adam
 - Introduction to Assistive Technology by Laura Simmons-Martinez and Bernadette Kennard
+
+
+### Half-day pre-conference workshops
 - Achieving Authentic Communication with AAC: an Implementation Toolkit by Belva Holman
 - Supporting Students with Complex Communication Needs in Today's Classrooms by Kelly Fonner
 
