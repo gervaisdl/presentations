@@ -229,12 +229,6 @@ cost you around $450-650CAD.
 ### My "interesting" trip down
 
 
-### Food
-
-
-### Cellphones
-
-
 
 
 ## Next year (33rd CSUN Conference)
