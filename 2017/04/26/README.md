@@ -157,6 +157,7 @@ In past years I've created Guidebook apps to help myself and others.
 
 
 ### Recaps
+Dennis Deacon did a mega list of available presentations http://www.dennisdeacon.com/web-design/accessibility/csun-2017-megalist-presentation-resources-digital-professionals/
 
 
 ## Parties
