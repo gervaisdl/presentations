@@ -228,7 +228,9 @@ http://www.csun.edu/cod/conference/2017/sessions/index.php/public/website_pages/
 
 
 ### Hotels
-Hotels in San Diego aren't cheap.
+Hotels in San Diego aren't cheap. The conference room rate is $238.00 (plus
+12.5% tax and applicable fees) for double occupancy.
+I usually stay at the DoubleTree and use an IBM corporate rate of $140/night
 
 
 ### Flights
