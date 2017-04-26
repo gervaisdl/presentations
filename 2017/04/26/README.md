@@ -186,13 +186,15 @@ site and give alternate formats:
 - Viking and Lumberjack live show
 - Lainey Feingold's legal update
 - 508 Refresh update from ADA
-- Any of Jamie Knight's talks
 - Web Content Accessibility Guidelines 2.1 First Public Working Draft http://www.w3.org/TR/WCAG21/
 
 
 ### Cognitive disabilities
-- Hiring at Microsoft
+- Autism Hiring at Microsoft https://www.microsoft.com/en-us/diversity/inside-microsoft/cross-disability/hiring.aspx
 - Cognitive support tech for job seekers (Norway Government)
+- Any of Jamie Knight's talks http://jkg3.com
+
+![Jamie Knight and lion](img/Jamie-Knight-autism.jpg)
 
 
 ### Recaps (FOMO)
