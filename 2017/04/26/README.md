@@ -46,6 +46,7 @@ You'll probably run into him at some point of the conference
 - Google
 - Facebook
 - Oracle
+- IBM https://github.com/ibma
 
 
 ### Telecom
