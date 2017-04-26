@@ -1,7 +1,7 @@
 # CSUN 2017
 
 http://csunconference.org/
-2017 was the 32nd
+Presentation: https://nschonni.github.io/presentations/2017/04/26/
 
 
 
@@ -13,6 +13,7 @@ http://csunconference.org/
 - web-ally.slack.com #csunatc17 room
 - John Foliot's guide http://john.foliot.ca/csun-for-newbies/
 - Paul J. Adam's guide http://pauljadam.com/blog/2015/03/02/csun-2015-tips-tricks-csun15-survival-list/
+
 
 
 
@@ -54,6 +55,7 @@ http://csunconference.org/
 
 
 
+
 ## What is there
 
 
@@ -66,6 +68,7 @@ This
 The keynote occurs the Tuesday before the conference kicks off. This year
 
 - Strache Leadership Award
+
 
 ### Exhibitors hall
 https://www.csun.edu/cod/conference/2017/rebooking/index.php/public/exhibitors/
@@ -127,6 +130,9 @@ Join Microsoft experts in our Showcase Suite in Harbor Ballroom "H" for presenta
 For the last few years Deque has sponsored a hackathon on the Saturday following
 CSUN. It's a good
 
+
+
+
 ## Sessions
 http://www.csun.edu/cod/conference/2017/sessions/index.php/public/conf_sessions/
 The sessions at CSUN are split up into tracks
@@ -160,6 +166,9 @@ In past years I've created Guidebook apps to help myself and others.
 - Dennis Deacon did a mega list of available presentations http://www.dennisdeacon.com/web-design/accessibility/csun-2017-megalist-presentation-resources-digital-professionals/
 - WebAxe recap http://www.webaxe.org/csun17-review/
 
+
+
+
 ## Parties
 
 
@@ -178,6 +187,7 @@ Invite only, held across the street from the conference venue
 
 ### Role=drinks
 https://www.roledrinks.com/
+
 
 
 ## Travel and accommodations
@@ -200,6 +210,8 @@ cost you around $450-650CAD.
 
 
 ### Cellphones
+
+
 
 
 ## Next year (33rd CSUN Conference)
