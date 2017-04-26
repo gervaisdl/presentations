@@ -87,9 +87,13 @@ Before the actual conference, CSUN now offers 2 days of [Pre-conference workshop
 
 
 ### Keynote
-The keynote occurs the Tuesday before the conference kicks off. This year
+The keynote occurs the Tuesday before the conference kicks off. This year Dr. Kellie Lim presented, she is a physician at UCLA Health, specializing in Allergy & Immunology.
+Dr. Lim underwent amputations of her legs, right arm, and several fingers of the left hand.
 
-Strache Leadership Award
+
+### Strache Leadership Award
+This year’s Strache Leadership Award Recipient is Clayton Lewis.
+Two methods to which he and his colleagues have contributed, the thinking aloud method and the cognitive walkthrough, are in regular use in software development organizations around the world.
 
 
 ### Exhibitors hall
