@@ -215,7 +215,9 @@ David McDonald. Image from Dennis Lembree's Flickr
 
 ### Google party
 
-Invite only, held across the street from the conference venue
+Invite only, held across the street from the conference venue. They cover the
+drinks and food to give a chance to talk to Googlers and other A11y folk.
+http://eatpuesto.com/
 
 
 ### Role=drinks
