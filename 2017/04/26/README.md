@@ -94,6 +94,11 @@ The keynote occurs the Tuesday before the conference kicks off. This year
 https://www.csun.edu/cod/conference/2017/rebooking/index.php/public/exhibitors/
 
 
+#### Dot Watch
+http://mashable.com/2017/02/22/dot-smartwatch-retails/
+
+![Dot braille smartwatch](img/dot_watch.jpg)
+
 ### Showcase suites
 http://www.csun.edu/cod/conference/2017/sessions/index.php/public/website_pages/view/16
 
