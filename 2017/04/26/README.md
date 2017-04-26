@@ -177,8 +177,9 @@ site and give alternate formats:
 - Web Content Accessibility Guidelines 2.1 First Public Working Draft http://www.w3.org/TR/WCAG21/
 
 
-### Some sessions I attended
-- Static vs. Interactive Widget Roles (Bryan Garaventa) https://www.linkedin.com/pulse/csun-2017-printout-static-vs-interactive-widget-roles-bryan-garaventa-
+### Cognitive disabilities
+- Hiring at Microsoft
+- Cognitive support tech for job seekers (Norway Government)
 
 
 ### Recaps (FOMO)
