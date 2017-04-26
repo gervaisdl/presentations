@@ -175,6 +175,7 @@ site and give alternate formats:
 - [Google Doc](https://docs.google.com/spreadsheets/d/1GSsYZ8A7dr0PJTS3-j4RK1a-H78_u4L0caq1vbXNQhk/edit#gid=163653407)
 - In past years I've created Guidebook apps to help myself and others
 - Always have (multiple) alternate choices for every slot
+- [Accessible HTML, EPUB, and DAISY versions of the Conference program and hotel menus are available for download](http://www.daisy.org/csun-2017-files) courtesy of DAISY.
 
 
 ### Notable sessions
