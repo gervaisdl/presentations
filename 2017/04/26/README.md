@@ -57,6 +57,7 @@ You'll probably run into him at some point of the conference
 ### Retail companies
 - Starbucks
 - Target
+- eBay https://www.gitbook.com/@ebay
 
 
 ### Publishers
