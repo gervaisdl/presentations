@@ -11,7 +11,7 @@ Presentation: https://nschonni.github.io/presentations/2017/04/26/
 
 
 ## Information for first timers
-- web-ally.slack.com #csunatc17 room
+- https://web-ally.slack.com #csunatc17 room
 - John Foliot's guide http://john.foliot.ca/csun-for-newbies/
 - Paul J. Adam's guide http://pauljadam.com/blog/2015/03/02/csun-2015-tips-tricks-csun15-survival-list/
 
