@@ -164,6 +164,9 @@ Dennis Deacon did a mega list of available presentations http://www.dennisdeacon
 
 
 ### Sign language karaoke
+![Karaoke at CSUN17, David McDonald leads his classic WCAG theme song by Dennis311](img/Karaoke.jpg)
+You'll see many A11y people belting out their favourite hits, like Ottawa's own
+David McDonald. Image from Dennis Lembree's Flickr
 
 
 ### Google party
