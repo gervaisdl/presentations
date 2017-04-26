@@ -245,6 +245,7 @@ Hotels in San Diego aren't cheap. The conference room rate is $238.00 (plus
 12.5% tax and applicable fees) for double occupancy.
 I usually stay at the DoubleTree and use an IBM corporate rate of $140/night
 
+![Manchester Grant Hyatt San Diego hotel](img/manchester.png)
 
 ### Flights
 There are 2 daily direct flights from Toronto to San Diego which is probably the
