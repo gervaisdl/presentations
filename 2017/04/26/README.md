@@ -156,9 +156,9 @@ In past years I've created Guidebook apps to help myself and others.
 - Static vs. Interactive Widget Roles (Bryan Garaventa) https://www.linkedin.com/pulse/csun-2017-printout-static-vs-interactive-widget-roles-bryan-garaventa-
 
 
-### Recaps
-Dennis Deacon did a mega list of available presentations http://www.dennisdeacon.com/web-design/accessibility/csun-2017-megalist-presentation-resources-digital-professionals/
-
+### Recaps (FOMO)
+- Dennis Deacon did a mega list of available presentations http://www.dennisdeacon.com/web-design/accessibility/csun-2017-megalist-presentation-resources-digital-professionals/
+- WebAxe recap http://www.webaxe.org/csun17-review/
 
 ## Parties
 
