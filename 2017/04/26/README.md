@@ -220,7 +220,9 @@ Invite only, held across the street from the conference venue
 
 ### Role=drinks
 
-https://www.roledrinks.com/
+https://www.roledrinks.com/in/san_diego/
+ It’s an accessibility meetup! The event features lightning talks, time to talk to the speakers and fellow attendees, and more than enough time to grab a drink.
+This was held at [Mission Brewery, 1441 L Street](http://missionbrewery.com/)
 
 
 
