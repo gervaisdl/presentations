@@ -70,7 +70,7 @@ You'll probably run into him at some point of the conference
 ### Pre-conference workshops
 Before the actual conference, CSUN now offers 2 days of [Pre-conference workshops](http://www.csun.edu/cod/conference/2017/sessions/index.php/public/conf_sessions/view_preconference).
 - [Resources from the Inclusive Design Fundamentals workshop](https://isner.github.io/inclusive-design-fundamentals/) by Dennis Lembrée, Caitlin Geier, and Matthew Isner.
-- [Mobile Pre-Conference Accessibility Workshops(http://pauljadam.com/csunmobile/) by Paul Adam
+- [Mobile Pre-Conference Accessibility Workshops](http://pauljadam.com/csunmobile/) by Paul Adam
 - Introduction to Assistive Technology by Laura Simmons-Martinez and Bernadette Kennard
 - Achieving Authentic Communication with AAC: an Implementation Toolkit by Belva Holman
 - Supporting Students with Complex Communication Needs in Today's Classrooms by Kelly Fonner
