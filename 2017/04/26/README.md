@@ -213,7 +213,6 @@ David McDonald. Image from Dennis Lembree's Flickr
 ![Karaoke at CSUN17, David McDonald leads his classic WCAG theme song by Dennis311](img/Karaoke.jpg)
 
 
-
 ### Google party
 Invite only, held across the street from the conference venue
 
