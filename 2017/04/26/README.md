@@ -214,13 +214,12 @@ David McDonald. Image from Dennis Lembree's Flickr
 
 
 ### Google party
+
 Invite only, held across the street from the conference venue
 
 
-### SSB Bart Group party
-
-
 ### Role=drinks
+
 https://www.roledrinks.com/
 
 
