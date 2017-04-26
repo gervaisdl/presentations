@@ -163,8 +163,10 @@ The sessions at CSUN are split up into tracks
 
 ### Navigating the sessions
 The session guide can be hard to use, so people have usually tried to scrape the
-site and give alternate formats like https://docs.google.com/spreadsheets/d/1GSsYZ8A7dr0PJTS3-j4RK1a-H78_u4L0caq1vbXNQhk/edit#gid=163653407
-In past years I've created Guidebook apps to help myself and others.
+site and give alternate formats:
+- [Google Doc](https://docs.google.com/spreadsheets/d/1GSsYZ8A7dr0PJTS3-j4RK1a-H78_u4L0caq1vbXNQhk/edit#gid=163653407)
+- In past years I've created Guidebook apps to help myself and others
+- Always have (multiple) alternate choices for every slot
 
 
 ### Notable sessions
