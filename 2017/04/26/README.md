@@ -69,6 +69,11 @@ You'll probably run into him at some point of the conference
 
 ### Pre-conference workshops
 Before the actual conference, CSUN now offers 2 days of [Pre-conference workshops](http://www.csun.edu/cod/conference/2017/sessions/index.php/public/conf_sessions/view_preconference).
+- One-day: $280/305/355 (Early/Regular/Late)
+- Half-day: $190/215/265 (Early/Regular/Late)
+
+
+### Example Pre-conference workshops
 - [Resources from the Inclusive Design Fundamentals workshop](https://isner.github.io/inclusive-design-fundamentals/) by Dennis Lembree, Caitlin Geier, and Matthew Isner.
 - [Mobile Pre-Conference Accessibility Workshops](http://pauljadam.com/csunmobile/) by Paul Adam
 - Introduction to Assistive Technology by Laura Simmons-Martinez and Bernadette Kennard
