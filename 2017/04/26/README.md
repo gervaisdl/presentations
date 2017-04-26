@@ -29,10 +29,7 @@ http://csunconference.org/
 - Developers
 - Testers
 - Accessibility auditors
-- Low or No vision
-- Deaf
-- Deaf/Blink
-- Cognitive disabilities
+- People with disabilities (Low or No vision, Deaf, Deaf/Blink, Cognitive disabilities)
 - Stevie Wonder
 
 
