@@ -140,11 +140,12 @@ Join Microsoft experts in our Showcase Suite in Harbor Ballroom "H" for presenta
 
 ### Post-conference hackathon
 https://www.deque.com/blog/web-accessibility-action-2017-axe-hackathon/
+
 For the last few years Deque has sponsored a hackathon on the Saturday following
-CSUN. This year the goal was to improve accessiblity in the following products:
-- Office UI Fabric – Microsoft’s front-end framework for building web content that integrates with Office 365
-- AMP HTML – Google’s new framework for building fast, mobile-optimized web content
-- React Bootstrap – an open source JavaScript library that is currently used by Facebook, Instagram, Netflix, Imgur, and many other sites and applications
+CSUN.
+- Office UI Fabric - Microsoft’s front-end framework for building web content that integrates with Office 365
+- AMP HTML - Google’s new framework for building fast, mobile-optimized web content
+- React Bootstrap - an open source JavaScript library that is currently used by Facebook, Instagram, Netflix, Imgur, and many other sites and applications
 
 
 
