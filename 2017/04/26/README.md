@@ -213,7 +213,18 @@ https://www.roledrinks.com/
 
 
 
-## Travel and accommodations
+## How much does it cost?
+
+
+### Conference pass
+
+- Attendee Registration Opens Tuesday, December 13, 2016
+- Early Bird: $460 (ends Wednesday, January 11, 2017)
+- Regular: $515 (ends Wednesday, February 8, 2017)
+- Late & On-Site: $555
+
+Speakers, Government, and educations can receive 25% off.
+http://www.csun.edu/cod/conference/2017/sessions/index.php/public/website_pages/view/6
 
 
 ### Hotels
