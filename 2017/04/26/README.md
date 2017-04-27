@@ -252,6 +252,7 @@ I usually stay at the DoubleTree and use an IBM corporate rate of $140/night
 
 ![Manchester Grant Hyatt San Diego hotel](img/manchester.png)
 
+
 ### Flights
 There are 2 daily direct flights from Toronto to San Diego which is probably the
 easiest way to get down. As long as you book enough in advance, it will probably
