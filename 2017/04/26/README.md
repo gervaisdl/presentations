@@ -4,6 +4,7 @@ http://csunconference.org/
 
 Presentation: https://nschonni.github.io/presentations/2017/04/26/
 
+Presenter: Nick Schonning, [@nschonni](https://twitter.com/nschonni)
 
 
 ## What is CSUN?
