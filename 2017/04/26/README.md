@@ -12,7 +12,7 @@ Presenter: Nick Schonning, [@nschonni](https://twitter.com/nschonni)
 
 
 ## Information for first timers
-- https://web-ally.slack.com #csunatc17 room
+- https://web-ally.slack.com #csunatc17 room. Invite http://web-a11y.herokuapp.com/
 - John Foliot's guide http://john.foliot.ca/csun-for-newbies/
 - Paul J. Adam's guide http://pauljadam.com/blog/2015/03/02/csun-2015-tips-tricks-csun15-survival-list/
 
